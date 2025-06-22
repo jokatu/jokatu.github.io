@@ -54,3 +54,4 @@ jobs:
           PUBLISH_DIR: ./public
           publish_branch: gh-pages
           commit_message: ${{ github.event.head_commit.message }}
+          force_orphan: true  # 彻底替换旧内容（可选）
