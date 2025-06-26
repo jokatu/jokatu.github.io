@@ -1,8 +1,8 @@
 ---
 title: 游戏引擎的选择
-date: 2025-06-21
+date: 2025-06-23
 author: Jokatu
-draft: true
+# draft: true
 ---
 
 在尝试过一些引擎、框架之后，我更喜欢godot，但理智告诉我应该选择unity，因为在之前的工作里长时间都在使用它，这是我最熟悉的工具。
