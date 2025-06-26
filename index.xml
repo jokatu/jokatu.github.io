@@ -1,3 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Jokatu's blog</title><link>https://jokatu.github.io/</link><description>Recent content in 首页 on Jokatu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jokatu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>游戏引擎的选择</title><link>https://jokatu.github.io/posts/engine/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>https://jokatu.github.io/posts/engine/</guid><description>&lt;p>在尝试过一些引擎、框架之后，我更喜欢godot，但理智告诉我应该选择unity，因为在之前的工作里长时间都在使用它，这是我最熟悉的工具。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Jokatu's blog</title><link>https://jokatu.github.io/</link><description>Recent content in 首页 on Jokatu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jokatu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>游戏想法</title><link>https://jokatu.github.io/posts/game-idea/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><guid>https://jokatu.github.io/posts/game-idea/</guid><description>&lt;p>脑袋里有很多想法，但当我想动手时却总是觉得不够好，大脑一片空白，没有动力开始。
+&lt;br>
+于是我开始在网上看游戏开发的讲座，尝试学习前辈的经验。其中sokpop的分享令我印象深刻。&lt;/p>
+&lt;iframe width="560" height="315"
+src="https://www.youtube.com/embed/3AUqfv6oBFQ?start=519&amp;autoplay=1&amp;rel=0"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+&lt;/iframe>
+&lt;br>
+&lt;br>
+Aran Koning分享了他对Game Idea的看法，他认为很容易想出游戏创意，总结了一些生产的方法，比如
+&lt;blockquote>
+&lt;p>美术（外观）、氛围、类型融合、技术实验、机制创新（交互）&lt;/p>&lt;/blockquote>
+&lt;p>而什么是好的想法，他也给出判断方法&lt;/p>
+&lt;blockquote>
+&lt;p>我想制作这个游戏
+我能制作这个游戏
+想法将带来新的想法
+想法必须具有独特性&lt;/p>&lt;/blockquote>
+&lt;p>分别解释为&lt;/p>
+&lt;blockquote>
+&lt;p>它让我有动力去完成
+它是可行的，在有限的时间和技能条件下能完成
+这个想法会带来新的想法，会让人联想更多的可能
+独特性意味着它易于描述，易于推销&lt;/p>&lt;/blockquote>
+&lt;p>&lt;br>他认为执行想法非常关键。在执行过程中，经常发生想法被证明不够好，做出来不够有趣，这时不要轻易放弃，可以不拘泥于最初的想法，而是在基础上发展变化，尝试一切能变好的方法，也许变得和最初大不一样，但它变得更加有趣。
+&lt;br>如何面对一片空白？如何执行一个想法？如何面对想法的缺陷？如何让想法发展进化？如何让它有趣、有效？我想这些问题难以找到一劳永逸的解决方案，好的想法和灵感不会唾手可得，需要不断思考、尝试才会出现。
+&lt;br>stackland来源于基本的想法，把卡片叠起来让事情发生，kingdom从简单的骑马闲逛动画发展而来，the hex在最后阶段成功从一个不够好的情况扭转完成。游戏想法就像埋下一颗种子，喂养它，看它生长发展，它可以变化，就算在制作途中也仍然有机会去改变。不同于在工作中按照策划文档行事，这更适合独立开发，围绕游戏核心发展，重点是让游戏变得有趣。
+&lt;br>
+另一方面，更现实的角度是sokpop完成了大量小游戏，他们也在总结什么样是有效的，更不应轻易放弃。
+&lt;br>关于有效的游戏想法，讲座最后Tijmen Tio做了整理。&lt;/p>
+&lt;blockquote>
+&lt;p>模拟经营、城市建造
+非线性，可重玩的&lt;/p>&lt;/blockquote>
+&lt;p>我想这是因为玩家想在其中投入大量时间，这样才认为值得。显然simmland和stackland完全符合，在这两个游戏中我认为新鲜的交互、持续的收费/威胁和有效的游戏类型是关键，所以在交互/机制之上发想看起来是个好方法。
+&lt;br>最后，我想起一首关于灵感的歌&lt;/p>
+&lt;blockquote>
+&lt;p>也许是天气 也许是运气
+也许是因为有人不放弃
+也许是天意 也许不愿意
+也许是因为她 还是因为我和你&lt;/p>
+&lt;p>—因为你 方大同&lt;/p>&lt;/blockquote>
+&lt;p>答案也许就在那里，没有很远，我需要更多的耐心，一切只是过程。&lt;/p></description></item><item><title>游戏引擎的选择</title><link>https://jokatu.github.io/posts/engine/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>https://jokatu.github.io/posts/engine/</guid><description>&lt;p>在尝试过一些引擎、框架之后，我更喜欢godot，但理智告诉我应该选择unity，因为在之前的工作里长时间都在使用它，这是我最熟悉的工具。
 在这件事上我已经犹豫太久了，先用称手的工具做些东西，动起来！&lt;/p></description></item><item><title>哨响开始</title><link>https://jokatu.github.io/posts/first/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://jokatu.github.io/posts/first/</guid><description>&lt;h2 id="你好游戏世界">你好，游戏世界&lt;/h2>
 &lt;p>珍惜现在，去制作一些游戏！&lt;/p></description></item><item><title>关于</title><link>https://jokatu.github.io/pages/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jokatu.github.io/pages/about/</guid><description>&lt;p>一名游戏开发者，制作一些游戏。&lt;/p></description></item></channel></rss>
