@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Jokatu"
   name = "Jokatu"
-  description = "我的游戏开发从这里开始"
+  description = "游戏开发记录"
 
 # Allow to override webmanifest options
 [Languages.zh-cn.params.webmanifest]
